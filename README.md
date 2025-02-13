@@ -38,6 +38,8 @@ In addition to the screenshots, you can also a link to your wireframe file (if y
 ![WireFrame3](images/wireframe3.png)
 
 
+The website as seen is pretty straight forward. There is on all pages a section on the top to help the user to navigate the site between the different tabs. All hyperlinks are also underlined, making it easier for the user to identify them as well. There is not much responsive design so most of it is simply text for the user to read through to learn more about me as a person.
+
 ## Task 2: Follow-up Questions
 
 For this task, please include your answers for the questions described in [Lab 4](L4.md) file below:
