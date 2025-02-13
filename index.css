@@ -1,0 +1,53 @@
+body {
+    background-color: 17203D;
+    color: FFFFFF;
+}
+
+p {
+    font-family: 'Lato', serif;
+}
+
+h1 {
+    font-size: 35px;
+    margin-left:10px;
+}
+
+.name {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    display: inline;
+    margin-right: 375px;
+}
+
+.nav-tab {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    color: FFFFFF;
+    display: inline;
+    margin-right: 225px;
+    text-shadow: 2px 2px 1px black;
+    cursor: pointer;
+}
+
+.base-text {
+    font-size: 30px;
+    margin-left:200px;
+    width: 1450px;
+}
+
+.github-text {
+    font-size: 30px;
+    margin-left:200px;
+    width: 900px;
+    float: left;
+    padding-right: 0px;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    float: right;
+    padding-left: 0px;
+    padding-right: 350px;
+}
