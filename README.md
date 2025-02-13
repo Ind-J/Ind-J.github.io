@@ -33,6 +33,10 @@ Include screenshots of your website wireframe here. Make sure the wireframe is c
 
 In addition to the screenshots, you can also a link to your wireframe file (if you used an online tool to create it). Make sure the link is accessible to the teaching team (check using an incognito window). This is not a replacement for the screenshots, but an additional resource for the teaching team to understand your wireframe.
 
+![WireFrame1](images/wireframe1.png)
+![WireFrame2](images/wireframe2.png)
+![WireFrame3](images/wireframe3.png)
+
 
 ## Task 2: Follow-up Questions
 
