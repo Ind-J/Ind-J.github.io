@@ -7,6 +7,11 @@ p {
     font-family: 'Lato', serif;
 }
 
+h1 {
+    font-size: 35px;
+    margin-left:10px;
+}
+
 .name {
     font-family: 'Playfair Display', serif;
     font-size: 40px;
@@ -19,7 +24,19 @@ p {
     font-size: 40px;
     color: FFFFFF;
     display: inline;
-    margin-right: 250px;
+    margin-right: 225px;
     text-shadow: 2px 2px 1px black;
     cursor: pointer;
+}
+
+.base-text {
+    font-size: 30px;
+    margin-left:200px;
+    width: 1450px;
+}
+
+.github-text {
+    font-size: 30px;
+    margin-left:200px;
+    width: 900px;
 }
