@@ -1,0 +1,25 @@
+body {
+    background-color: 17203D;
+    color: FFFFFF;
+}
+
+p {
+    font-family: 'Lato', serif;
+}
+
+.name {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    display: inline;
+    margin-right: 375px;
+}
+
+.nav-tab {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    color: FFFFFF;
+    display: inline;
+    margin-right: 250px;
+    text-shadow: 2px 2px 1px black;
+    cursor: pointer;
+}
