@@ -49,27 +49,28 @@ For this task, please include your answers for the questions described in [Lab 4
 
 ### Q1
 
-[Insert answer here]
+[Link to Other Repo(Assigned)](https://github.com/CMPT-276-SPRING-2025/solo-mini-project-Ind-J)
+[Link to Website](https://ind-j.github.io/)
 
 ### Q2
 
-[Insert answer here]
+My website is simple. At the top you will see tabs to goto different pages of the site. Anything that is underlined has a hyperlink. The text on the navigation uses the Playfair Display font and the normal text and lists below it use the Lato font. 
 
 ### Q3
 
-[Insert answer here]
+A favicon is a small image icon that is usually situated on the website tab. It can also appear when the site is bookmarked. A favicon helps with search engine optimization by making it seem more reputable compared to if there was no favicon. Considering that most favicons are company logos, and company logos are made to be able to attract people to their company just by the logo(like how we might figure out theres a mcdonalds down the street because we see the logo) it would make sense that having favicons would also make it easier for people to get attracted to your website and learn what the favicon is tied to.
 
 ### Q4
 
-[Insert answer here]
+Github Pages takes repositories straight from github and is able to host it. It is a hosting service. One of then main differences I've seen is GitHub Pages is limited to non-protiftable websites. Not allowing online business or any service on their webpages. Github Pages also does not allow anything that may violate Githubs Terms of Service. Making it seem more for educational use.
 
 ### Q5
 
-[Insert answer here]
+Github Actions is a CI/CD(continuous integration and continuous delivery) that lets you create workflows then can be triggered upon certain events.
 
 ### Q6
 
-[Insert answer here]
+I decided just to use some basic HTML and CSS. I decided to just stick with the basics due to me simply just not wanting to use things like react because I'm not totally confident with those just yet. And decided to put that time into learning more about git.
 
 ## Task 3: Github Video
 
