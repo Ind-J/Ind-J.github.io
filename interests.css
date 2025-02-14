@@ -1,0 +1,47 @@
+body {
+    background-color: #17203d;
+    color: white;
+}
+
+.name {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    display: inline;
+    margin-right: 375px;
+}
+
+.nav-tab {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    color: white;
+    display: inline;
+    margin-right: 225px;
+    text-shadow: 2px 2px 1px black;
+    cursor: pointer;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    float: left;
+}
+
+ul {
+    font-family: 'Lato', serif;
+    font-size: 30px;
+    margin-left:300px;
+    width: 1450px;
+    
+}
+
+li {
+    margin-bottom: 25px;
+    margin-left: 200px;
+}
+
+hr {
+    margin-top:35px;
+    margin-bottom:35px;
+}
