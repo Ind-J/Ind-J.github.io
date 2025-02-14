@@ -36,6 +36,9 @@ In addition to the screenshots, you can also a link to your wireframe file (if y
 ![WireFrame1](images/wireframe1.png)
 ![WireFrame2](images/wireframe2.png)
 ![WireFrame3](images/wireframe3.png)
+![WireFrame4](images/wireframe4.png)
+
+[LINK TO WIREFRAME](https://www.figma.com/design/qiNZYCjPd9zqpLDEz441nJ/Portfolio?node-id=0-1&t=jXIhRopDsbfwYfpL-1)
 
 
 The website as seen is pretty straight forward. There is on all pages a section on the top to help the user to navigate the site between the different tabs. All hyperlinks are also underlined, making it easier for the user to identify them as well. There is not much responsive design so most of it is simply text for the user to read through to learn more about me as a person.
