@@ -3,6 +3,22 @@ body {
     color: white;
 }
 
+h1 {
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+ul {
+    font-family: 'Lato', serif;
+    font-size: 30px;
+    margin-left:200px;
+    width: 1450px;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
 .name {
     font-family: 'Playfair Display', serif;
     font-size: 40px;
