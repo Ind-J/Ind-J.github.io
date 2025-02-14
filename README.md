@@ -1,5 +1,9 @@
 # Ind-J.github.io
 
+## LISCENSE REASONING
+
+I decided to use the MIT license. I mainly decided to use the MIT License due to its simplicity. This is just a simple HTML CSS Website Portfolio, so I decided that if someone wants to clone and change their versions for whatever reason I have no qualms about that. So the MIT liscense fit what I was thinking so I chose it as my License for this mini-project.
+
 # Mini-Project (45 marks)
 
 [View Instructions Here](Mini-project.md)
