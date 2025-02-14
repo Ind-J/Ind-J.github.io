@@ -51,3 +51,12 @@ h1 {
     padding-left: 0px;
     padding-right: 350px;
 }
+
+a {
+    color:white;
+}
+
+hr {
+    margin-top:35px;
+    margin-bottom:35px;
+}
