@@ -35,3 +35,12 @@ li {
     text-shadow: 2px 2px 1px black;
     cursor: pointer;
 }
+
+a {
+    color: white;
+}
+
+hr {
+    margin-top:35px;
+    margin-bottom:35px;
+}
