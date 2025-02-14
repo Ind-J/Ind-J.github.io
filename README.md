@@ -1,5 +1,9 @@
 # Ind-J.github.io
 
+## LISCENSE REASONING
+
+I decided to use the MIT license. I mainly decided to use the MIT License due to its simplicity. This is just a simple HTML CSS Website Portfolio, so I decided that if someone wants to clone and change their versions for whatever reason I have no qualms about that. So the MIT liscense fit what I was thinking so I chose it as my License for this mini-project.
+
 # Mini-Project (45 marks)
 
 [View Instructions Here](Mini-project.md)
@@ -49,27 +53,28 @@ For this task, please include your answers for the questions described in [Lab 4
 
 ### Q1
 
-[Insert answer here]
+[Link to Other Repo(Assigned)](https://github.com/CMPT-276-SPRING-2025/solo-mini-project-Ind-J)
+[Link to Website](https://ind-j.github.io/)
 
 ### Q2
 
-[Insert answer here]
+My website is simple. At the top you will see tabs to goto different pages of the site. Anything that is underlined has a hyperlink. The text on the navigation uses the Playfair Display font and the normal text and lists below it use the Lato font. 
 
 ### Q3
 
-[Insert answer here]
+A favicon is a small image icon that is usually situated on the website tab. It can also appear when the site is bookmarked. A favicon helps with search engine optimization by making it seem more reputable compared to if there was no favicon. Considering that most favicons are company logos, and company logos are made to be able to attract people to their company just by the logo(like how we might figure out theres a mcdonalds down the street because we see the logo) it would make sense that having favicons would also make it easier for people to get attracted to your website and learn what the favicon is tied to.
 
 ### Q4
 
-[Insert answer here]
+Github Pages takes repositories straight from github and is able to host it. It is a hosting service. One of then main differences I've seen is GitHub Pages is limited to non-protiftable websites. Not allowing online business or any service on their webpages. Github Pages also does not allow anything that may violate Githubs Terms of Service. Making it seem more for educational use.
 
 ### Q5
 
-[Insert answer here]
+Github Actions is a CI/CD(continuous integration and continuous delivery) that lets you create workflows then can be triggered upon certain events.
 
 ### Q6
 
-[Insert answer here]
+I decided just to use some basic HTML and CSS. I decided to just stick with the basics due to me simply just not wanting to use things like react because I'm not totally confident with those just yet. And decided to put that time into learning more about git.
 
 ## Task 3: Github Video
 
@@ -77,22 +82,23 @@ For this task, please include your answers for the questions described in [Lab 4
 
 ### Q1
 
-[Insert answer here]
+Pull Requests is a way to ensure a development team does not mess up their main branch. When someone creates a branch off of the main, and want to then add it into the main branch will need to create a pull request.
+Pull Requests compare the branch that wants to be merged to main, to the main branch itself. This allows other developers also working on the repository to see and approve of any changes if needed.
 
 ### Q2
 
-[Insert answer here]
+The green boxes and number is simply how many lines were added in this specific branch. The red boxes and numbers display how many lines were removed. Both lines specificy in different ways what changed between the main and this branch.
 
 ### Q3
 
 #### 3a
 
-[Insert answer here]
+'git merge test' would take the 'test' branch, and subsequently merge it into the 'develop'. This is due to the fact that we were on the develop branch when calling this command.
 
 #### 3b
 
-[Insert answer here]
+This means that someone in one specific branch(branch A) was working on the same specific area of code(for example a selector in css) and another person on another branch was also working on that same specific code on a different branch(lets say branch B). If one of the persons wanted to merge these two branches together, it would create this error. It means that git sees there are two different versions of the same part of code and does not know which one to implement or not, leaving it to the developers.
 
 #### 3c
 
-[Insert answer here]
+The lines above 4 belong to the develop branch, and the ones below line 4 belong to the test branch, considering that the head is on the top and test is on the bottom. It means test was not the head at the time of the merger. Which means that test was being merged into develop.
