@@ -25,4 +25,23 @@ body {
     height: 300px;
     margin-bottom: 20px;
     border-radius: 50%;
+    float: left;
+}
+
+ul {
+    font-family: 'Lato', serif;
+    font-size: 30px;
+    margin-left:300px;
+    width: 1450px;
+    
+}
+
+li {
+    margin-bottom: 25px;
+    margin-left: 200px;
+}
+
+hr {
+    margin-top:35px;
+    margin-bottom:35px;
 }
