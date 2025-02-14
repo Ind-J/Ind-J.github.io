@@ -78,22 +78,23 @@ For this task, please include your answers for the questions described in [Lab 4
 
 ### Q1
 
-[Insert answer here]
+Pull Requests is a way to ensure a development team does not mess up their main branch. When someone creates a branch off of the main, and want to then add it into the main branch will need to create a pull request.
+Pull Requests compare the branch that wants to be merged to main, to the main branch itself. This allows other developers also working on the repository to see and approve of any changes if needed.
 
 ### Q2
 
-[Insert answer here]
+The green boxes and number is simply how many lines were added in this specific branch. The red boxes and numbers display how many lines were removed. Both lines specificy in different ways what changed between the main and this branch.
 
 ### Q3
 
 #### 3a
 
-[Insert answer here]
+'git merge test' would take the 'test' branch, and subsequently merge it into the 'develop'. This is due to the fact that we were on the develop branch when calling this command.
 
 #### 3b
 
-[Insert answer here]
+This means that someone in one specific branch(branch A) was working on the same specific area of code(for example a selector in css) and another person on another branch was also working on that same specific code on a different branch(lets say branch B). If one of the persons wanted to merge these two branches together, it would create this error. It means that git sees there are two different versions of the same part of code and does not know which one to implement or not, leaving it to the developers.
 
 #### 3c
 
-[Insert answer here]
+The lines above 4 belong to the develop branch, and the ones below line 4 belong to the test branch, considering that the head is on the top and test is on the bottom. It means test was not the head at the time of the merger. Which means that test was being merged into develop.
